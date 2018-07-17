@@ -7,6 +7,6 @@ if (namer === "Susan") {
   console.log("wrong name man")
 }
 // Don't worry about this
-module.exports = { name, height
+module.exports = { namer, height
 }
 
